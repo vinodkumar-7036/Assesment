@@ -1,0 +1,19 @@
+.userListContainer {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .userListTitle {
+    margin-bottom: 20px;
+    text-align: center; 
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: flex-end; 
+    margin-top: 20px; 
+  }
+  
+    
+  

@@ -1,0 +1,230 @@
+
+  
+   
+
+  .formContainer {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .header {
+    height: 40px;
+    padding: 9px 0px 0px 0px;
+    margin-bottom: 20px;
+  }
+  
+  .formTitle {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .formBody {
+    margin: 20px 0;
+  }
+  
+  .sectionTitle {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .nameFields {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .textField {
+    flex: 1;
+    margin-bottom: 20px;
+  }
+  .subfields{
+    display: flex   ;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 10px;
+
+  }
+  
+  .customDropdown {
+    margin-bottom: 20px;
+  }
+  
+  .switchContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  
+   
+
+  .formContainer {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .header {
+    height: 40px;
+    padding: 9px 0px 0px 0px;
+    margin-bottom: 20px;
+  }
+  
+  .formTitle {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .formBody {
+    margin: 20px 0;
+  }
+  
+  .sectionTitle {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .nameFields {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .textField {
+    flex: 1;
+    margin-bottom: 20px;
+  }
+  .subfields{
+    display: flex   ;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 10px;
+
+  }
+  
+  .customDropdown {
+    margin-bottom: 20px;
+  }
+  
+  .switchContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-top: 10px;
+    gap: 10px;
+  }
+  .switchContainer .switchLabel {
+    flex: 1; 
+  }
+  
+  .switchContainer .MuiFormControlLabel-root {
+    margin:0px 80px 0px 0px;
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  .footer {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    padding-top: 20px;
+    border-top: 1px solid #e0e0e0;
+  }
+  
+  .cancelButton {
+    border: 1px solid #ccc;
+  }
+  
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #ccc !important;
+  }
+  
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-input {
+    border-color: #ccc;
+  }
+ 
+  .smallInput {
+    max-width: 250px;  
+    height: 36px;      
+    font-size: 14px;   
+  }
+  .smallInput ,.smallInputEmail, .MuiInputBase-root {
+    height: 36px;      
+  }
+ 
+  
+  .smallSelect ,.MuiSelect-root {
+    height: 36px;
+    padding: 5px;
+  }
+ 
+  
+  .switchContainer .MuiTypography-root {
+    flex: 1;
+  }
+  
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+    border-color: #ccc !important;
+  }
+  
+  .MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-input {
+    border-color: #ccc;
+  }
+  .button-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+    gap: 10px;
+  }
+  
+  .cancelButton {
+    color: blue;
+    font-size: 14px;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+  .createButton {
+    height: 40px;
+    padding: 10px 20px;
+    font-size: 14px;
+  }
+  
+  
+  .smallInput {
+    max-width: 250px;  
+    height: 36px;      
+    font-size: 14px;   
+  }
+  .smallInput ,.smallInputEmail, .MuiInputBase-root {
+    height: 36px;      
+  }
+  .smallSelect {
+    max-width: 510px;
+    height: 36px;
+    font-size: 14px;
+  }
+ 
+  .smallSelect ,.MuiSelect-root {
+    height: 36px;
+    padding: 5px;
+  }
+  .smallInputEmail {
+    max-width: 510px;
+    height: 36px;
+    font-size: 14px;
+  }
+  
+ 
