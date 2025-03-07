@@ -40,8 +40,8 @@ function UserList() {
           </TableBody>
         </Table>
       )}
-      <Box >
-      <Button style={{padding:"10px"}} variant="contained" color="primary" onClick={() => navigate("/")}>Create Another User</Button>
+      <Box  style={{padding:"10px"}}>
+      <Button  variant="contained" color="primary" onClick={() => navigate("/")}>Create Another User</Button>
 
       </Box>
 
